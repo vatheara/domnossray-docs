@@ -272,5 +272,8 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Hello World": {
+    "message": "សួរស្ដី ពិភពលោក"
   }
 }
