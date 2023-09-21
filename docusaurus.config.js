@@ -67,6 +67,15 @@ const config = {
         },
       }),
     ],
+    [
+      '@docusaurus/preset-classic',
+      {
+        gtag: {
+          trackingID: 'G-999X9XX9XX',
+          anonymizeIP: true,
+        },
+      },
+    ],
   ],
 
   themeConfig:
@@ -150,15 +159,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    plugins: [
-      [
-        '@docusaurus/plugin-google-analytics',
-        {
-          trackingID: 'G-2J46C9ZFJE',
-          anonymizeIP: true,
-        },
-      ],
-    ],
 };
 
 module.exports = config;
