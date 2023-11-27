@@ -24,5 +24,5 @@ We will send a confirmation verify to the email address that you provide in orde
 
 ![](./img/2023-11-27-13-27-47.png)
 
-### Next Steps
+## Next Steps
 Now that you have registered successfully and are ready to access our product.
