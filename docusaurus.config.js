@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Domnossrai',
-  tagline: 'Domnossrai are cool',
+  tagline: 'Domnossrai are cools',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -86,12 +86,12 @@ const config = {
         },
         
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Guide',
-          // },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Document',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'localeDropdown',
