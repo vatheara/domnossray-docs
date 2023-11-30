@@ -1,6 +1,6 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "ទំព័របន្ទាប់",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Tutorial - Basics": {
@@ -14,5 +14,13 @@
   "sidebar.tutorialSidebar.category.Tutorial - Extras": {
     "message": "Tutorial - Extras",
     "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Getting Start": {
+    "message": "Getting Start",
+    "description": "The label for category Getting Start in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Getting Start.link.generated-index.description": {
+    "message": "Let's getting start with KhmerGPT",
+    "description": "The generated-index page description for category Getting Start in sidebar tutorialSidebar"
   }
 }
