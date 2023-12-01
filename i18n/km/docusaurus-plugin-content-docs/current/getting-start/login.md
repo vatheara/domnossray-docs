@@ -11,6 +11,6 @@ sidebar_position: 3
 
 > ចូលទៅកាន់ https://chat.domnossrai.com/login 
 
-![](./img/2023-11-27-13-28-02.png)
+![](./img/login-page-kh.png)
 
-![](./img/2023-11-27-13-28-19.png)
+![](./img/home-page-kh.png)
