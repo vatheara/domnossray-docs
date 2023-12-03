@@ -11,6 +11,24 @@ Ready to start use our product ChatBot AI
 
 > Go to https://chat.domnossrai.com/login
 
-![](./img/login-page-en.png)
+(Desktop view)
 
-![](./img/home-page-en.png)
+![](../../static/img/desktop-en/login-page-en.png)
+
+(Mobile view)
+
+![](../../static/img/mobile-en/mobile-login-page-en.png)
+
+<!-- <img src="../../static/img/mobile-en/mobile-login-page-en.png" width="250"> -->
+
+
+(Desktop view)
+
+![](../../static/img/desktop-en/home-page-en.png)
+
+
+(Mobile view)
+
+![](../../static/img/mobile-en/mobile-home-page-en.png)
+
+<!-- <img src="../../static/img/mobile-en/mobile-home-page-en.png" width="250"> -->

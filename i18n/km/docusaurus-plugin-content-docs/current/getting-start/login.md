@@ -11,6 +11,22 @@ sidebar_position: 3
 
 > ចូលទៅកាន់ https://chat.domnossrai.com/login 
 
-![](./img/login-page-kh.png)
+(ទម្រង់កំ​ព្យូ​ទ័​រ)
 
-![](./img/home-page-kh.png)
+![](../../../../../static/img/desktop-kh/login-page-kh.png)
+
+(ទម្រង់ទូរស័ព្ទ)
+
+![](../../../../../static/img/mobile-kh/mobile-login-page-kh.png)
+
+<!-- <img src="../../../../../static/img/mobile-kh/mobile-login-page-kh.png" width="250"> -->
+
+(ទម្រង់កំ​ព្យូ​ទ័​រ)
+
+![](../../../../../static/img/desktop-kh/home-page-kh.png)
+
+(ទម្រង់ទូរស័ព្ទ)
+
+![](../../../../../static/img/mobile-kh/mobile-home-page-kh.png)
+
+<!-- <img src="../../../../../static/img/mobile-kh/mobile-home-page-kh.png" width="250"> -->
