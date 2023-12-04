@@ -7,7 +7,7 @@ sidebar_position: 3
 ## Login An Account
 Ready to start use our product ChatBot AI
 
-### Step1: Start the login process
+### Step 1: Start the login process
 
 > Go to https://chat.domnossrai.com/login
 
