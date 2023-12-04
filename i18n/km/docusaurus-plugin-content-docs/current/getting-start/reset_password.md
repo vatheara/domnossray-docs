@@ -18,18 +18,18 @@ sidebar_position: 3
 (ទម្រង់កំ​ព្យូ​ទ័​រ)
 
 
-![](../../static/img/desktop-en/reset-password-page-en.png)
+![](../../../../../static/img/desktop-kh/reset-password-page-kh.png)
 
 (ទម្រង់ទូរស័ព្ទ)
 
-![](../../static/img/mobile-en/mobile-reset-password-page-en.png)
+![](../../../../../static/img/mobile-kh/mobile-reset-password-page-kh.png)
 
 
 ### ជំហានទី ៣: ការផ្ទៀងផ្ទាត់
 
 អ្នកនឹងទទួលបានអ៊ីមែលដែលមានតំណផ្ទៀងផ្ទាត់។ ចុចលើប៊ូតុង "Reset Password" ដើម្បីផ្ទៀងផ្ទាត់អត្តសញ្ញាណរបស់អ្នក។
 
-![](../../static/img/desktop-en/reset-password-mail.png)
+![](../../../../../static/img/desktop-en/reset-password-mail.png)
 
 
 ### ជំហានទី ៤: បង្កើតលេខសម្ងាត់ថ្មី
@@ -38,11 +38,11 @@ sidebar_position: 3
 
 (ទម្រង់កំ​ព្យូ​ទ័​រ)
 
-![](../../static/img/desktop-en/set-new-password-en.png)
+![](../../../../../static/img/desktop-en/set-new-password-en.png)
 
 (ទម្រង់ទូរស័ព្ទ)
 
-![](../../static/img/mobile-en/mobile-set-new-password-en.png)
+![](../../../../../static/img/mobile-en/mobile-set-new-password-en.png)
 
 ### ជំហានទី ៥: ចូលគណនី
 
